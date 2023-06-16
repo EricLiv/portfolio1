@@ -29,7 +29,7 @@ h2 {
 }
 
 a.font-black {
-  color: #c4c0ad !important;
+  color: #000000 !important;
 }
 
 /*******************
@@ -44,7 +44,7 @@ ABOUT
   text-align: center;
   border: rgba(157, 160, 165, 0.571) 1px solid;
   box-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2),
-    0px -5px 35px rgba(255, 255, 255, 0.3);
+    0px -5px 35px rgba(168, 158, 65, 0.3);
 }
 
 #about img {
@@ -57,7 +57,7 @@ ABOUT
 
 #about .name {
   font-size: 35px;
-  text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2),
+  text-shadow: 2px 8px 6px rgba(219, 215, 215, 0.2),
     0px -5px 35px rgba(255, 255, 255, 0.3);
 }
 
