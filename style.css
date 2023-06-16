@@ -44,7 +44,7 @@ ABOUT
   text-align: center;
   border: rgba(157, 160, 165, 0.571) 1px solid;
   box-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2),
-    0px -5px 35px rgba(168, 158, 65, 0.3);
+    0px -5px 35px rgba(143, 116, 29, 0.3);
 }
 
 #about img {
@@ -52,13 +52,14 @@ ABOUT
   width: 181px;
   margin-bottom: 10px;
   box-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2),
-    0px -5px 35px rgba(255, 255, 255, 0.3);
+    0px -5px 35px rgba(143, 116, 29, 0.3);
 }
 
 #about .name {
   font-size: 35px;
+  color: #818183;
   text-shadow: 2px 8px 6px rgba(219, 215, 215, 0.2),
-    0px -5px 35px rgba(255, 255, 255, 0.3);
+    0px -5px 35px rgba(143, 116, 29, 0.3);
 }
 
 #about .vocation {
@@ -75,11 +76,13 @@ ABOUT
 
 #about p {
   font-size: 17px;
+  color: #818183;
 }
 
 #about .email {
   margin-top: 14px;
   font-size: 14px;
+  color: #818183;
 }
 
 #about .icons {
@@ -88,7 +91,7 @@ ABOUT
 }
 
 #about .icons a {
-  color: #000;
+  color: #e4b74a;
 }
 
 /**********************
