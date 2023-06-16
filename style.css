@@ -58,7 +58,7 @@ ABOUT
 #about .name {
   font-size: 35px;
   color: #818183;
-  text-shadow: 2px 8px 6px rgba(219, 215, 215, 0.2),
+  text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2),
     0px -5px 35px rgba(143, 116, 29, 0.3);
 }
 
