@@ -28,11 +28,17 @@ h2 {
   margin-bottom: 20px;
 }
 
-a.font-black {
-  color: #000000;
+.button {
+  background-color: #333;
 }
 
-a:hover {
+.button:hover {
+  background-color: #e4b74a;
+  color: #000;
+  transition: 0.7s;
+}
+
+a.font-black {
   color: #e4b74a;
 }
 
