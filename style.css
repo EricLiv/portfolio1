@@ -29,10 +29,10 @@ h2 {
 }
 
 a.font-black {
-  color: #000000 !important;
+  color: #000000;
 }
 
-a:hover {
+a.font-black:hover {
   color: #e4b74a;
 }
 
