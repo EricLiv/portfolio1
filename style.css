@@ -32,6 +32,11 @@ a.font-black {
   color: #000000 !important;
 }
 
+a.font-black:hover {
+  color: #e4b74a;
+}
+
+
 /*******************
 
 ABOUT
